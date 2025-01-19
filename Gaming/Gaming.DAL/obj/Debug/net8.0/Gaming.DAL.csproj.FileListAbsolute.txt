@@ -15,3 +15,4 @@
 /Users/samirhebibov/Desktop/GamingStore-MVC/Gaming/Gaming.DAL/obj/Debug/net8.0/Gaming.DAL.pdb
 /Users/samirhebibov/Desktop/GamingStore-MVC/Gaming/Gaming.DAL/obj/Debug/net8.0/Gaming.DAL.genruntimeconfig.cache
 /Users/samirhebibov/Desktop/GamingStore-MVC/Gaming/Gaming.DAL/obj/Debug/net8.0/ref/Gaming.DAL.dll
+/Users/samirhebibov/Desktop/GamingStore-MVC/Gaming/Gaming.DAL/obj/Debug/net8.0/Gaming.DAL.sourcelink.json

@@ -10,3 +10,4 @@
 /Users/samirhebibov/Desktop/GamingStore-MVC/Gaming/Gaming.Cote/obj/Debug/net8.0/refint/Gaming.Core.dll
 /Users/samirhebibov/Desktop/GamingStore-MVC/Gaming/Gaming.Cote/obj/Debug/net8.0/Gaming.Core.pdb
 /Users/samirhebibov/Desktop/GamingStore-MVC/Gaming/Gaming.Cote/obj/Debug/net8.0/ref/Gaming.Core.dll
+/Users/samirhebibov/Desktop/GamingStore-MVC/Gaming/Gaming.Cote/obj/Debug/net8.0/Gaming.Core.sourcelink.json

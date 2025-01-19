@@ -16,7 +16,8 @@ public class GameConfiguration : IEntityTypeConfiguration<Game>
 
         builder.HasOne(x => x.Category)
             .WithMany(x => x.Games)
-            .HasForeignKey(x => x.CategoryId); 
+            .HasForeignKey(x => x.CategoryId)
+            .OnDelete(DeleteBehavior.SetNull); 
     }
 }
 

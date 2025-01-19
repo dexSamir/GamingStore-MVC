@@ -11,6 +11,8 @@
   <ItemGroup>
     <Content Remove="wwwroot\" />
     <Content Remove="wwwroot\admin\" />
+    <Content Remove="wwwroot\imgs\" />
+    <Content Remove="wwwroot\imgs\games\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="wwwroot\" />
@@ -22,6 +24,9 @@
     <Folder Include="Areas\Admin\Views\Shared\" />
     <Folder Include="wwwroot\admin\" />
     <Folder Include="Areas\Admin\Views\Category\" />
+    <Folder Include="Areas\Admin\Views\Game\" />
+    <Folder Include="wwwroot\imgs\" />
+    <Folder Include="wwwroot\imgs\games\" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Gaming.BL\Gaming.BL.csproj">
@@ -45,5 +50,6 @@
     <None Remove="Areas\Admin\Views\Dashboard\" />
     <None Remove="Areas\Admin\Views\Shared\" />
     <None Remove="Areas\Admin\Views\Category\" />
+    <None Remove="Areas\Admin\Views\Game\" />
   </ItemGroup>
 </Project>

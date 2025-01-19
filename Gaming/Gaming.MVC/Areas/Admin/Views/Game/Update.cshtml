@@ -1,0 +1,54 @@
+﻿@model GameUpdateVM
+@{
+    ViewData["Title"] = "Create Game";
+}
+<div class="container">
+    <div class="row">
+        <div class="col">
+            <div class="card shadow mb-4">
+                <div class="card-header py-3 d-flex justify-content-between align-items-center">
+                    <h6 class="m-0 font-weight-bold text-primary">Create Game</h6>
+                    <a asp-action="Index" asp-controller="Game" class="btn btn-outline-primary">Return List</a>
+                </div>
+                <div class="card-body">
+                    <form method="post" enctype="multipart/form-data">
+                        <div class="mb-3">
+                            <label asp-for="@Model.Name" class="form-label"></label>
+                            <input asp-for="@Model.Name" class="form-control" aria-describedby="emailHelp">
+                            <span asp-validation-for="@Model.Name" class="form-text text-small text-danger"></span>
+                        </div>
+                        <div class="mb-3">
+                            <label asp-for="@Model.Price" class="form-label"></label>
+                            <input asp-for="@Model.Price" class="form-control" aria-describedby="emailHelp">
+                            <span asp-validation-for="@Model.Price" class="form-text text-small text-danger"></span>
+                        </div>
+                        <div class="mb-3">
+                            <label asp-for="@Model.DiscountedPrice" class="form-label"></label>
+                            <input asp-for="@Model.DiscountedPrice" class="form-control" aria-describedby="emailHelp">
+                            <span asp-validation-for="@Model.DiscountedPrice" class="form-text text-small text-danger"></span>
+                        </div>
+                        <div class="mb-3">
+                            <img src="~/imgs/games/@Model.ExistingImageUrl" width="100px"/>
+                            <label asp-for="@Model.Image" class="form-label"></label>
+                            <input asp-for="@Model.Image" accept="image" class="form-control" aria-describedby="emailHelp">
+                            <span asp-validation-for="@Model.Image" class="form-text text-small text-danger"></span>
+                        </div>
+
+                        <div class="mb-3">
+                            <label asp-for="@Model.CategoryId" class="form-label"></label>
+                            <select class="form-select" asp-for="@Model.CategoryId">
+                                <option selected disabled>Select Category</option>
+                                @foreach (var item in ViewBag.Categories)
+                                {
+                                    <option value="@item.Id">@item.Name</option>
+                                }
+                            </select>
+                            <span asp-validation-for="@Model.CategoryId" class="form-text text-small text-danger"></span>
+                        </div>
+                        <button type="submit" class="btn btn-primary">Submit</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

@@ -15,3 +15,4 @@
 /Users/samirhebibov/Desktop/GamingStore-MVC/Gaming/Gaming.BL/obj/Debug/net8.0/refint/Gaming.BL.dll
 /Users/samirhebibov/Desktop/GamingStore-MVC/Gaming/Gaming.BL/obj/Debug/net8.0/Gaming.BL.pdb
 /Users/samirhebibov/Desktop/GamingStore-MVC/Gaming/Gaming.BL/obj/Debug/net8.0/ref/Gaming.BL.dll
+/Users/samirhebibov/Desktop/GamingStore-MVC/Gaming/Gaming.BL/obj/Debug/net8.0/Gaming.BL.sourcelink.json

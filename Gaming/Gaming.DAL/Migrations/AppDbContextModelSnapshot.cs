@@ -60,7 +60,7 @@ namespace Gaming.DAL.Migrations
 
                     NpgsqlPropertyBuilderExtensions.UseIdentityByDefaultColumn(b.Property<int>("Id"));
 
-                    b.Property<int>("CategoryId")
+                    b.Property<int?>("CategoryId")
                         .HasColumnType("integer");
 
                     b.Property<DateTime>("CreatedTime")
@@ -301,8 +301,7 @@ namespace Gaming.DAL.Migrations
                     b.HasOne("Gaming.Core.Entities.Category", "Category")
                         .WithMany("Games")
                         .HasForeignKey("CategoryId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
+                        .OnDelete(DeleteBehavior.SetNull);
 
                     b.Navigation("Category");
                 });

@@ -5,6 +5,6 @@ namespace Gaming.Core.Entities;
 public class Category : BaseEntity 
 {
 	public string Name { get; set; }
-	public ICollection<Game> Games { get; set; } = new HashSet<Game>(); 
+	public ICollection<Game>? Games { get; set; } = new HashSet<Game>(); 
 }
 
