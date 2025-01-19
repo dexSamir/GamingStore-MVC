@@ -1,0 +1,283 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/samirhebibov/Desktop/GamingStore-MVC/Gaming/Gaming.MVC/Gaming.MVC.csproj": {}
+  },
+  "projects": {
+    "/Users/samirhebibov/Desktop/GamingStore-MVC/Gaming/Gaming.BL/Gaming.BL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/samirhebibov/Desktop/GamingStore-MVC/Gaming/Gaming.BL/Gaming.BL.csproj",
+        "projectName": "Gaming.BL",
+        "projectPath": "/Users/samirhebibov/Desktop/GamingStore-MVC/Gaming/Gaming.BL/Gaming.BL.csproj",
+        "packagesPath": "/Users/samirhebibov/.nuget/packages/",
+        "outputPath": "/Users/samirhebibov/Desktop/GamingStore-MVC/Gaming/Gaming.BL/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/samirhebibov/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/samirhebibov/Desktop/GamingStore-MVC/Gaming/Gaming.DAL/Gaming.DAL.csproj": {
+                "projectPath": "/Users/samirhebibov/Desktop/GamingStore-MVC/Gaming/Gaming.DAL/Gaming.DAL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Http": {
+              "target": "Package",
+              "version": "[2.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/samirhebibov/Desktop/GamingStore-MVC/Gaming/Gaming.Cote/Gaming.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/samirhebibov/Desktop/GamingStore-MVC/Gaming/Gaming.Cote/Gaming.Core.csproj",
+        "projectName": "Gaming.Core",
+        "projectPath": "/Users/samirhebibov/Desktop/GamingStore-MVC/Gaming/Gaming.Cote/Gaming.Core.csproj",
+        "packagesPath": "/Users/samirhebibov/.nuget/packages/",
+        "outputPath": "/Users/samirhebibov/Desktop/GamingStore-MVC/Gaming/Gaming.Cote/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/samirhebibov/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.11, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/samirhebibov/Desktop/GamingStore-MVC/Gaming/Gaming.DAL/Gaming.DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/samirhebibov/Desktop/GamingStore-MVC/Gaming/Gaming.DAL/Gaming.DAL.csproj",
+        "projectName": "Gaming.DAL",
+        "projectPath": "/Users/samirhebibov/Desktop/GamingStore-MVC/Gaming/Gaming.DAL/Gaming.DAL.csproj",
+        "packagesPath": "/Users/samirhebibov/.nuget/packages/",
+        "outputPath": "/Users/samirhebibov/Desktop/GamingStore-MVC/Gaming/Gaming.DAL/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/samirhebibov/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/samirhebibov/Desktop/GamingStore-MVC/Gaming/Gaming.Cote/Gaming.Core.csproj": {
+                "projectPath": "/Users/samirhebibov/Desktop/GamingStore-MVC/Gaming/Gaming.Cote/Gaming.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.11, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[8.0.11, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/samirhebibov/Desktop/GamingStore-MVC/Gaming/Gaming.MVC/Gaming.MVC.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/samirhebibov/Desktop/GamingStore-MVC/Gaming/Gaming.MVC/Gaming.MVC.csproj",
+        "projectName": "Gaming.MVC",
+        "projectPath": "/Users/samirhebibov/Desktop/GamingStore-MVC/Gaming/Gaming.MVC/Gaming.MVC.csproj",
+        "packagesPath": "/Users/samirhebibov/.nuget/packages/",
+        "outputPath": "/Users/samirhebibov/Desktop/GamingStore-MVC/Gaming/Gaming.MVC/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/samirhebibov/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/samirhebibov/Desktop/GamingStore-MVC/Gaming/Gaming.BL/Gaming.BL.csproj": {
+                "projectPath": "/Users/samirhebibov/Desktop/GamingStore-MVC/Gaming/Gaming.BL/Gaming.BL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Components.QuickGrid.EntityFrameworkAdapter": {
+              "target": "Package",
+              "version": "[8.0.11, )"
+            },
+            "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.11, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[8.0.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

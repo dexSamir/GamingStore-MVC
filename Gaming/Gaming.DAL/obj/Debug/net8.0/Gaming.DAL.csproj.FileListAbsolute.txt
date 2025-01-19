@@ -1,0 +1,17 @@
+/Users/samirhebibov/Desktop/GamingStore-MVC/Gaming/Gaming.DAL/bin/Debug/net8.0/Gaming.DAL.deps.json
+/Users/samirhebibov/Desktop/GamingStore-MVC/Gaming/Gaming.DAL/bin/Debug/net8.0/Gaming.DAL.runtimeconfig.json
+/Users/samirhebibov/Desktop/GamingStore-MVC/Gaming/Gaming.DAL/bin/Debug/net8.0/Gaming.DAL.dll
+/Users/samirhebibov/Desktop/GamingStore-MVC/Gaming/Gaming.DAL/bin/Debug/net8.0/Gaming.DAL.pdb
+/Users/samirhebibov/Desktop/GamingStore-MVC/Gaming/Gaming.DAL/bin/Debug/net8.0/Gaming.Core.dll
+/Users/samirhebibov/Desktop/GamingStore-MVC/Gaming/Gaming.DAL/bin/Debug/net8.0/Gaming.Core.pdb
+/Users/samirhebibov/Desktop/GamingStore-MVC/Gaming/Gaming.DAL/obj/Debug/net8.0/Gaming.DAL.csproj.AssemblyReference.cache
+/Users/samirhebibov/Desktop/GamingStore-MVC/Gaming/Gaming.DAL/obj/Debug/net8.0/Gaming.DAL.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samirhebibov/Desktop/GamingStore-MVC/Gaming/Gaming.DAL/obj/Debug/net8.0/Gaming.DAL.AssemblyInfoInputs.cache
+/Users/samirhebibov/Desktop/GamingStore-MVC/Gaming/Gaming.DAL/obj/Debug/net8.0/Gaming.DAL.AssemblyInfo.cs
+/Users/samirhebibov/Desktop/GamingStore-MVC/Gaming/Gaming.DAL/obj/Debug/net8.0/Gaming.DAL.csproj.CoreCompileInputs.cache
+/Users/samirhebibov/Desktop/GamingStore-MVC/Gaming/Gaming.DAL/obj/Debug/net8.0/Gaming.DAL.csproj.CopyComplete
+/Users/samirhebibov/Desktop/GamingStore-MVC/Gaming/Gaming.DAL/obj/Debug/net8.0/Gaming.DAL.dll
+/Users/samirhebibov/Desktop/GamingStore-MVC/Gaming/Gaming.DAL/obj/Debug/net8.0/refint/Gaming.DAL.dll
+/Users/samirhebibov/Desktop/GamingStore-MVC/Gaming/Gaming.DAL/obj/Debug/net8.0/Gaming.DAL.pdb
+/Users/samirhebibov/Desktop/GamingStore-MVC/Gaming/Gaming.DAL/obj/Debug/net8.0/Gaming.DAL.genruntimeconfig.cache
+/Users/samirhebibov/Desktop/GamingStore-MVC/Gaming/Gaming.DAL/obj/Debug/net8.0/ref/Gaming.DAL.dll

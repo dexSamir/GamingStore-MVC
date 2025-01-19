@@ -1,0 +1,17 @@
+/Users/samirhebibov/Desktop/GamingStore-MVC/Gaming/Gaming.BL/bin/Debug/net8.0/Gaming.BL.deps.json
+/Users/samirhebibov/Desktop/GamingStore-MVC/Gaming/Gaming.BL/bin/Debug/net8.0/Gaming.BL.dll
+/Users/samirhebibov/Desktop/GamingStore-MVC/Gaming/Gaming.BL/bin/Debug/net8.0/Gaming.BL.pdb
+/Users/samirhebibov/Desktop/GamingStore-MVC/Gaming/Gaming.BL/bin/Debug/net8.0/Gaming.Core.dll
+/Users/samirhebibov/Desktop/GamingStore-MVC/Gaming/Gaming.BL/bin/Debug/net8.0/Gaming.DAL.dll
+/Users/samirhebibov/Desktop/GamingStore-MVC/Gaming/Gaming.BL/bin/Debug/net8.0/Gaming.DAL.pdb
+/Users/samirhebibov/Desktop/GamingStore-MVC/Gaming/Gaming.BL/bin/Debug/net8.0/Gaming.Core.pdb
+/Users/samirhebibov/Desktop/GamingStore-MVC/Gaming/Gaming.BL/obj/Debug/net8.0/Gaming.BL.csproj.AssemblyReference.cache
+/Users/samirhebibov/Desktop/GamingStore-MVC/Gaming/Gaming.BL/obj/Debug/net8.0/Gaming.BL.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samirhebibov/Desktop/GamingStore-MVC/Gaming/Gaming.BL/obj/Debug/net8.0/Gaming.BL.AssemblyInfoInputs.cache
+/Users/samirhebibov/Desktop/GamingStore-MVC/Gaming/Gaming.BL/obj/Debug/net8.0/Gaming.BL.AssemblyInfo.cs
+/Users/samirhebibov/Desktop/GamingStore-MVC/Gaming/Gaming.BL/obj/Debug/net8.0/Gaming.BL.csproj.CoreCompileInputs.cache
+/Users/samirhebibov/Desktop/GamingStore-MVC/Gaming/Gaming.BL/obj/Debug/net8.0/Gaming.BL.csproj.CopyComplete
+/Users/samirhebibov/Desktop/GamingStore-MVC/Gaming/Gaming.BL/obj/Debug/net8.0/Gaming.BL.dll
+/Users/samirhebibov/Desktop/GamingStore-MVC/Gaming/Gaming.BL/obj/Debug/net8.0/refint/Gaming.BL.dll
+/Users/samirhebibov/Desktop/GamingStore-MVC/Gaming/Gaming.BL/obj/Debug/net8.0/Gaming.BL.pdb
+/Users/samirhebibov/Desktop/GamingStore-MVC/Gaming/Gaming.BL/obj/Debug/net8.0/ref/Gaming.BL.dll

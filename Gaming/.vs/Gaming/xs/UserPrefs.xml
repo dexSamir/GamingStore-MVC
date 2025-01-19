@@ -1,0 +1,7 @@
+﻿<Properties StartupConfiguration="{F8B2FC3E-EC66-4EDF-9B85-877BDE4E8CCE}|https">
+  <MonoDevelop.Ide.ItemProperties.Gaming.DAL FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Gaming.BL FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Gaming.MVC FirstBuild="True" PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.ItemProperties.Gaming.Core FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+</Properties>
