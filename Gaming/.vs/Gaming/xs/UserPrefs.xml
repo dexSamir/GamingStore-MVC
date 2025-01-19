@@ -1,7 +1,39 @@
 ﻿<Properties StartupConfiguration="{F8B2FC3E-EC66-4EDF-9B85-877BDE4E8CCE}|https">
-  <MonoDevelop.Ide.ItemProperties.Gaming.DAL FirstBuild="True" />
-  <MonoDevelop.Ide.ItemProperties.Gaming.BL FirstBuild="True" />
-  <MonoDevelop.Ide.ItemProperties.Gaming.MVC FirstBuild="True" PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.ItemProperties.Gaming.Core FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Gaming.BL/Extension/UserSeedExtension.cs">
+    <Files>
+      <File FileName="Gaming.MVC/Views/Account/Register.cshtml" Line="19" Column="17" />
+      <File FileName="Gaming.MVC/Views/Account/Login.cshtml" Line="60" Column="112" />
+      <File FileName="Gaming.MVC/Program.cs" Line="27" Column="53" />
+      <File FileName="Gaming.BL/Extension/UserSeedExtension.cs" Line="15" Column="69" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Gaming" expanded="True">
+            <Node name="Gaming.BL">
+              <Node name="Extension" expanded="True">
+                <Node name="UserSeedExtension.cs" selected="True" />
+              </Node>
+            </Node>
+            <Node name="Gaming.Core">
+              <Node name="Enums" expanded="True" />
+            </Node>
+            <Node name="Gaming.MVC">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Views">
+                <Node name="Account" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Gaming.MVC PreferredExecutionTarget="/Applications/Google Chrome.app" />
   <MultiItemStartupConfigurations />
 </Properties>

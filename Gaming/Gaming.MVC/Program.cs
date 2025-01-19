@@ -1,5 +1,9 @@
-﻿using Gaming.DAL.Context;
+﻿using Gaming.Core.Entities;
+using Gaming.DAL.Context;
+using Microsoft.AspNetCore.Identity;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
+using Gaming.BL.Extension;
 
 namespace Gaming.MVC;
 
@@ -13,6 +17,17 @@ public class Program
         builder.Services.AddControllersWithViews();
         builder.Services.AddDbContext<AppDbContext>(opt =>
             opt.UseNpgsql(builder.Configuration.GetConnectionString("PostgreSQL")));
+
+        builder.Services.AddIdentity<User, IdentityRole>(opt =>
+        {
+            opt.Password.RequireDigit = true; 
+            opt.Password.RequiredLength = 3;
+            opt.Password.RequireLowercase = true;
+            opt.Password.RequireUppercase = false;
+            opt.Password.RequireNonAlphanumeric = false;
+            opt.Lockout.MaxFailedAccessAttempts = 5;
+            opt.Lockout.DefaultLockoutTimeSpan = TimeSpan.FromMinutes(15); 
+        }).AddDefaultTokenProviders().AddEntityFrameworkStores<AppDbContext>(); 
 
         var app = builder.Build();
 
@@ -28,8 +43,13 @@ public class Program
         app.UseStaticFiles();
 
         app.UseRouting();
-
+        app.UseUserSeed();
         app.UseAuthorization();
+
+        app.MapControllerRoute(
+            name: "register",
+            pattern: "register",
+            defaults: new { Controller = "Account" , Action = "Register" });
 
         app.MapControllerRoute(
             name: "areas",

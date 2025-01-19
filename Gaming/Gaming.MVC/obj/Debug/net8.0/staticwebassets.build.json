@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "+k5HPTW3MCiySOrOhFroiuY5nDTlEpNURiGIlemxANU=",
+  "Hash": "yc66m13Y5M+JMbzXOpFI/Bfi2Dehg61P8egOjVYsVRM=",
   "Source": "Gaming.MVC",
   "BasePath": "_content/Gaming.MVC",
   "Mode": "Default",
@@ -36326,6 +36326,25 @@
       "OriginalItemSpec": "wwwroot/assets/webfonts/fa-v4compatibility.woff2"
     },
     {
+      "Identity": "/Users/samirhebibov/Desktop/GamingStore-MVC/Gaming/Gaming.MVC/wwwroot/imgs/games/a4zy1mpj.dje.png",
+      "SourceId": "Gaming.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/samirhebibov/Desktop/GamingStore-MVC/Gaming/Gaming.MVC/wwwroot/",
+      "BasePath": "_content/Gaming.MVC",
+      "RelativePath": "imgs/games/a4zy1mpj.dje.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/imgs/games/a4zy1mpj.dje.png"
+    },
+    {
       "Identity": "/Users/samirhebibov/Desktop/GamingStore-MVC/Gaming/Gaming.MVC/wwwroot/imgs/games/kngwqyjk.5le.png",
       "SourceId": "Gaming.MVC",
       "SourceType": "Discovered",
@@ -36362,25 +36381,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/imgs/games/oghgq1eu.e5w.png"
-    },
-    {
-      "Identity": "/Users/samirhebibov/Desktop/GamingStore-MVC/Gaming/Gaming.MVC/wwwroot/imgs/games/pin41twz.1ra.png",
-      "SourceId": "Gaming.MVC",
-      "SourceType": "Discovered",
-      "ContentRoot": "/Users/samirhebibov/Desktop/GamingStore-MVC/Gaming/Gaming.MVC/wwwroot/",
-      "BasePath": "_content/Gaming.MVC",
-      "RelativePath": "imgs/games/pin41twz.1ra.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/imgs/games/pin41twz.1ra.png"
     },
     {
       "Identity": "/Users/samirhebibov/Desktop/GamingStore-MVC/Gaming/Gaming.MVC/wwwroot/imgs/games/x3n20uwd.bkv.png",

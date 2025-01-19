@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Gaming.DAL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4e67d6b675b98457e4dc38ed85e535497fd51be2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7cd8c0791c9ba993416c94f1b0b4d267ccadd7dc")]
 [assembly: System.Reflection.AssemblyProductAttribute("Gaming.DAL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Gaming.DAL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

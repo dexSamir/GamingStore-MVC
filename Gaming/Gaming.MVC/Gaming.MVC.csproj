@@ -27,6 +27,7 @@
     <Folder Include="Areas\Admin\Views\Game\" />
     <Folder Include="wwwroot\imgs\" />
     <Folder Include="wwwroot\imgs\games\" />
+    <Folder Include="Views\Account\" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Gaming.BL\Gaming.BL.csproj">
@@ -51,5 +52,6 @@
     <None Remove="Areas\Admin\Views\Shared\" />
     <None Remove="Areas\Admin\Views\Category\" />
     <None Remove="Areas\Admin\Views\Game\" />
+    <None Remove="Views\Account\" />
   </ItemGroup>
 </Project>
